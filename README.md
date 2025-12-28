@@ -1,18 +1,19 @@
 # SC Probate Data
 
-Open data portal for South Carolina probate courts, providing public access to probate data, reports, and visualizations.
+Government efficiency and economic modernization initiative for South Carolina probate courts.
 
 ## About
 
-This repository hosts the website for [scprobatedata.org](https://www.scprobatedata.org), a platform dedicated to promoting transparency and public access to probate court information in South Carolina.
+This repository hosts the website for [scprobatedata.org](https://www.scprobatedata.org), a platform dedicated to modernizing South Carolina's probate court system through data-driven efficiency improvements, cost reduction, and improved service delivery.
 
-## Features (Coming Soon)
+## Key Benefits
 
-- 📊 **Open Data**: Comprehensive probate court data in machine-readable formats
-- 📈 **Reports & Analytics**: Statistical analyses and detailed reports
-- 📉 **Visualizations**: Interactive charts and data visualizations
-- 🔍 **Transparency**: Promoting government accountability and public access
-- 🔌 **API Access**: Programmatic access for researchers and developers
+- 💰 **Cost Savings**: Reducing operational expenses through modernization
+- ⚡ **Faster Processing**: Improved case clearance rates and service delivery
+- 🏢 **Business Climate**: Supporting economic growth through efficient estate settlements
+-  **Reduced Burden**: Lower FOIA workload and administrative overhead
+- 🔒 **Public Trust**: Transparent performance metrics demonstrating effectiveness
+- 💻 **Modern Infrastructure**: Cloud-based IT systems for resilience and remote work
 
 ## Development
 
